@@ -1,4 +1,4 @@
 
 Number of Books: 5
 
-The total cost :$ 78.95
+The total cost : $78.95

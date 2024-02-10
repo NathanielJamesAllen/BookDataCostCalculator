@@ -67,6 +67,6 @@ void printFinal(int c, float v) {
     outFile << endl;
     outFile << "Number of Books: " << c << endl;
     outFile << fixed << showpoint << setprecision(2) << endl;
-    outFile << "The total cost :$ " << v << endl;
+    outFile << "The total cost : $" << v << endl;
 
 }
